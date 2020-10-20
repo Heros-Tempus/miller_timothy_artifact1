@@ -1,0 +1,27 @@
+﻿C:\Users\tim_j\Desktop\t$m$p$$$\Rifle81.max
+C:\Users\tim_j\Desktop\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2017\Maps\glare\glare_streaks_star_camera_filter.tif
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Metal_Diffuse.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Barrel-Spec2.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Metal_NRM2.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Chamber_Diffuse.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Chamber_Spec2.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Chamber-2_NRM.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Stock_Diffuse_Real.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Stock_Spec2.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Stock_NRM3.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Dark-Metal-Style.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Chamber_Diffuse_Style.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Under-Barrel-Spec2.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Trigger_Diffuse.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Trigger_Specular2.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Stock_Diffuse_Style3.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Light-Metal-Style.tga
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Trigger-Guard-spec2.tga
+C:\Users\tim_j\Documents\3dsMax\scenes\LP_TriggerGuard UVW.jpg
+C:\Users\tim_j\Documents\3dsMax\sceneassets\images\Rifle\Flat_Stock_NRM.tga
+C:\Users\tim_j\Desktop\GRA-202\References\Rifle\Rifle\IMG_20171103_124746.jpg
+C:\Program Files\Autodesk\3ds Max 2017\maps\uvwunwrap\UV_Checker.png
+C:\Users\tim_j\Desktop\Under Barrel\Under-Barrel-Height.png
+C:\Users\tim_j\Desktop\Trigger Guard\Trigger-Guard-Height.png
+C:\Users\tim_j\Desktop\Trigger\Trigger-Spec.png
